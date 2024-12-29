@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "219718778565",
+    "project_id": "dailyearning-53032",
+    "storage_bucket": "dailyearning-53032.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219718778565:android:c8242d21eff62ddc253aac",
+        "android_client_info": {
+          "package_name": "com.anayo.earnblock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtvRt1AO9ohPgfVc8_FzK8tscLkP8qUyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
